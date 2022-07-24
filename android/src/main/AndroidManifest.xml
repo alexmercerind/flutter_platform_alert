@@ -1,5 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="net.zonble.flutter_platform_alert">
-
-    <uses-sdk android:minSdkVersion="21" />
 </manifest>
